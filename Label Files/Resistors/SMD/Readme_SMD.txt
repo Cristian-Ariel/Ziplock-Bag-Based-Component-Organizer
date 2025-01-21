@@ -1,0 +1,1 @@
+Resistor Power: https://eepower.com/resistor-guide/resistor-standards-and-codes/resistor-sizes-and-packages/
