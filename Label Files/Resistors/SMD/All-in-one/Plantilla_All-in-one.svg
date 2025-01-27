@@ -7,7 +7,7 @@
    id="svg25"
    sodipodi:docname="Plantilla_All-in-one.svg"
    inkscape:version="1.4 (86a8ad7, 2024-10-11)"
-   inkscape:export-filename="3-digit EIA\Diagrams\1) 0 Ω\8.2 Ohm.png"
+   inkscape:export-filename="Diagrams\2) 10 Ω\82 Ohm.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xml:space="preserve"
@@ -27,9 +27,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.72382199"
-     inkscape:cx="289.4358"
-     inkscape:cy="361.27667"
+     inkscape:zoom="0.84424084"
+     inkscape:cx="296.12403"
+     inkscape:cy="475.57519"
      inkscape:window-width="1600"
      inkscape:window-height="847"
      inkscape:window-x="-8"
@@ -283,7 +283,7 @@
          y="500.7402"
          class="t0"
          id="tspan1"
-         style="font-size:96px;stroke-width:0.687615">1R0</tspan></tspan><tspan
+         style="font-size:96px;stroke-width:0.687615">820</tspan></tspan><tspan
        sodipodi:role="line"
        id="tspan32"
        x="165.71815"
@@ -303,7 +303,7 @@
          y="492.45087"
          class="t0"
          id="tspan26"
-         style="font-size:74.6667px;stroke-width:0.687615">1R00</tspan></tspan><tspan
+         style="font-size:74.6667px;stroke-width:0.687615">82R0</tspan></tspan><tspan
        sodipodi:role="line"
        id="tspan28"
        x="524.15936"
@@ -323,7 +323,7 @@
          y="704.41473"
          class="t0"
          id="tspan29"
-         style="font-size:96px;stroke-width:0.687615">01Y</tspan></tspan><tspan
+         style="font-size:96px;stroke-width:0.687615">89X</tspan></tspan><tspan
        sodipodi:role="line"
        id="tspan33"
        x="349.32031"
